@@ -13,12 +13,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/04/63/b9/0463b94db6f1e49e08d14e2b6e7362c1.gif"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="css3 logo"  />
@@ -63,20 +57,10 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/tockdoog">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tockdoog&count=6&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tockdoog&count=6&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
-
----
-
-<div align="center">
-  <a href="https://open.spotify.com/user/tockdoog">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tockdoog&count=6&unique=false" alt="Spotify Recently Played" />
-  </a>
-</div>
-
----
