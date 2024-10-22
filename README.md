@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="380" src="https://i.pinimg.com/originals/04/63/b9/0463b94db6f1e49e08d14e2b6e7362c1.gif"  />
+  <img height="200" src="https://i.pinimg.com/originals/04/63/b9/0463b94db6f1e49e08d14e2b6e7362c1.gif"  />
 </div>
 
 ###
@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-<img align="right" height="350" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif"  />
+<img align="right" height="250" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif"  />
 
 ###
 
