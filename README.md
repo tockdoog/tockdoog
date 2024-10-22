@@ -79,7 +79,6 @@
 <!-- Descripción -->
 <p align="center">En esta sección puedes encontrar mis perfiles en diferentes redes sociales. ¡No dudes en seguirme!</p>
 
----
 
 <br clear="both">
 
@@ -96,7 +95,5 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=tockdoog&count=6&unique=true" alt="Spotify Recently Played" />
   </a>
 </div>
-<!-- Descripción -->
-<p align="center">Aquí puedes ver lo que he estado escuchando recientemente en Spotify.</p>
 
 ---
