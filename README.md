@@ -15,8 +15,9 @@ class JorgeHernandez:
     alias       = "tockdoog"
     ubicacion   = "🌎 Colombia"
     rol         = "Desarrollador en formación"
-    intereses   = ["Python", "Web Development", "Open Source"]
-    aprendiendo = ["Backend Development", "APIs REST", "Bases de datos"]
+    stack       = ["Python", "Django", "FastAPI", "React", "LangChain"]
+    infra       = ["AWS", "Docker", "PostgreSQL", "MongoDB"]
+    intereses   = ["IA & LLMs", "Ciberseguridad", "Open Source"]
     contacto    = "https://linkedin.com/in/andreihernández-27592a257/"
 
     def saludo(self):
@@ -32,11 +33,24 @@ class JorgeHernandez:
 ### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🐍 Backend & Scripting
+### 🐍 Backend & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### 🔧 Herramientas & Control de versiones
+### 🗄️ Bases de datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🔐 Seguridad & Herramientas
+![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-00C853?style=for-the-badge&logo=shield&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
