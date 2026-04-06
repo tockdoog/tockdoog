@@ -1,99 +1,103 @@
-<h3 align="center">👋 ¡Hola! Soy Jorge Hernández, ¡mucho gusto!</h3>
-
----
-
-<br clear="both">
-
-<!-- Sección de estadísticas -->
 <div align="center">
-  <h4>📊 Mis estadísticas de GitHub:</h4>
-  <!-- Muestra la racha de contribuciones -->
-  <img src="https://streak-stats.demolab.com?user=tockdoog&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="100" alt="Streak Graph" />
-  <!-- Muestra estadísticas generales del usuario (contribuciones, commits, etc.) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tockdoog&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=es&hide_border=false&custom_title=RANKING" height="100" alt="Estadísticas" />
-  <!-- Muestra los lenguajes de programación más utilizados por el usuario -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tockdoog&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="100" alt="Lenguajes" />
+
+<!-- Banner animado con nombre -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jorge%20Hernández&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Python%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
+
 </div>
-<!-- Descripción -->
-<p align="center">Esta sección muestra mis estadísticas en GitHub, incluyendo mi racha de contribuciones, un resumen de mis contribuciones totales y los lenguajes que más utilizo.</p>
 
 ---
 
-<!-- Sección de tecnologías -->
-<h4 align="center">🛠️ Tecnologías que manejo:</h4>
+## 👨‍💻 Sobre mí
+
+```python
+class JorgeHernandez:
+    nombre      = "Jorge Hernández"
+    alias       = "tockdoog"
+    ubicacion   = "🌎 Colombia"
+    rol         = "Desarrollador en formación"
+    intereses   = ["Python", "Web Development", "Open Source"]
+    aprendiendo = ["Backend Development", "APIs REST", "Bases de datos"]
+    contacto    = "https://linkedin.com/in/andreihernández-27592a257/"
+
+    def saludo(self):
+        return "¡Transformando ideas en código, un commit a la vez! 🚀"
+```
+
+---
+
+## 🛠️ Stack Tecnológico
+
 <div align="center">
-  <!-- Logo de HTML5 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="HTML5 Logo" />
-  <img width="12" />
-  <!-- Logo de CSS3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" alt="CSS3 Logo" />
-  <img width="12" />
-  <!-- Logo de Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python Logo" />
-  <img width="12" />
-  <!-- Logo de GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub Logo" />
-  <img width="12" />
-  <!-- Logo de Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git Logo" />
-  <img width="12" />
-  <!-- Logo de Visual Studio -->
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="Visual Studio Logo" />
+
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🐍 Backend & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 Herramientas & Control de versiones
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
-<!-- Descripción -->
-<p align="center">Aquí se presentan los íconos de las tecnologías con las que trabajo, incluyendo HTML, CSS, Python, Git, GitHub y Visual Studio.</p>
 
 ---
 
-<!-- Sección del contador de visitas -->
+## 📊 Estadísticas de GitHub
+
 <div align="center">
-  <h4>👥 Contador de visitas:</h4>
-  <!-- Contador de visitas al perfil -->
-  <img src="https://profile-counter.glitch.me/tockdoog/count.svg?" alt="Contador de visitas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tockdoog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Estadísticas%20de%20Jorge" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tockdoog&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=es" height="160"/>
 </div>
-<!-- Descripción -->
-<p align="center">Este contador muestra el número de visitas a mi perfil.</p>
 
----
-
-<!-- Sección de redes sociales -->
-<h4 align="center">📱 Conéctemos:</h4>
 <div align="center">
-  <!-- Enlace a Discord -->
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <!-- Enlace a Twitter -->
-  <a href="https://x.com/DoogTock" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter" />
-  </a>
-  <!-- Enlace a LinkedIn -->
-  <a href="https://www.linkedin.com/in/andreihernández-27592a257/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <!-- Enlace a Instagram -->
-  <a href="https://www.instagram.com/tockdoog/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=tockdoog&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" width="49%"/>
 </div>
-<!-- Descripción -->
-<p align="center">En esta sección puedes encontrar mis perfiles en diferentes redes sociales. ¡No dudes en seguirme!</p>
 
-
-<br clear="both">
-
-<!-- Gif decorativo -->
-<img align="right" height="200" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif" alt="Gif decorativo" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tockdoog&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+</div>
 
 ---
 
-<!-- Sección de Spotify -->
-<h4 align="center">🎶 Mi música reciente en Spotify:</h4>
-<div align="left">
-  <!-- Enlace a Spotify para ver música reciente -->
+## 🏆 Trofeos de GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tockdoog&theme=tokyonight&no-frame=true&row=1&column=6" width="98%"/>
+</div>
+
+---
+
+## 🎶 Escuchando en Spotify
+
+<div align="center">
   <a href="https://open.spotify.com/user/tockdoog">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tockdoog&count=6&unique=true" alt="Spotify Recently Played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tockdoog&count=5&unique=true" alt="Spotify Recently Played"/>
   </a>
 </div>
 
 ---
+
+## 🤝 Conectemos
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreihernández-27592a257/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DoogTock)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tockdoog/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+
+</div>
+
+---
+
+<div align="center">
+
+### 👥 Visitas al perfil
+![Visitor Count](https://profile-counter.glitch.me/tockdoog/count.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
