@@ -1,28 +1,47 @@
 <div align="center">
 
-<!-- Banner animado con nombre -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jorge%20Hernández&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Python%20Enthusiast&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B22222,1a1a1a,000000&height=200&section=header&text=Jorge%20Hernández&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20CEO%20%40%20SoftLegacy&descAlignY=55&descAlign=50&descSize=18" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CEO+%26+Founder+of+SoftLegacy;Python+%7C+Django+%7C+FastAPI+%7C+React;Cloud+%7C+AI+%7C+Cybersecurity)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👤 Sobre mí
 
 ```python
 class JorgeHernandez:
     nombre      = "Jorge Hernández"
     alias       = "tockdoog"
     ubicacion   = "🌎 Colombia"
-    rol         = "Desarrollador en formación"
+    rol         = "Software Engineer & CEO"
+    empresa     = "SoftLegacy 🏢 — Founder & CEO"
     stack       = ["Python", "Django", "FastAPI", "React", "LangChain"]
     infra       = ["AWS", "Docker", "PostgreSQL", "MongoDB"]
-    intereses   = ["IA & LLMs", "Ciberseguridad", "Open Source"]
-    contacto    = "https://linkedin.com/in/andreihernández-27592a257/"
+    intereses   = ["IA & LLMs", "Ciberseguridad", "Arquitectura de Software"]
 
     def saludo(self):
-        return "¡Transformando ideas en código, un commit a la vez! 🚀"
+        return "Construyendo el futuro digital, un commit a la vez. 🚀"
 ```
+
+---
+
+## 🏢 SoftLegacy
+
+<div align="center">
+
+> **Founder & CEO de [SoftLegacy](https://github.com/tockdoog)** — Empresa de desarrollo de software enfocada en soluciones tecnológicas de alto impacto.
+
+![SoftLegacy](https://img.shields.io/badge/SoftLegacy-CEO%20%26%20Founder-CC0000?style=for-the-badge&logoColor=white)
+![Software](https://img.shields.io/badge/Software-Development-1a1a1a?style=for-the-badge&logo=code&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Activo-CC0000?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
@@ -31,29 +50,29 @@ class JorgeHernandez:
 <div align="center">
 
 ### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=CC0000)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=CC0000)
+![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=CC0000)
 
-### 🐍 Backend & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+### ⚙️ Backend & Frameworks
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=CC0000)
+![Django](https://img.shields.io/badge/Django-1a1a1a?style=for-the-badge&logo=django&logoColor=CC0000)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=CC0000)
+![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=for-the-badge&logo=langchain&logoColor=CC0000)
 
 ### 🗄️ Bases de datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=CC0000)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=CC0000)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=for-the-badge&logo=amazon-web-services&logoColor=CC0000)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=CC0000)
 
 ### 🔐 Seguridad & Herramientas
-![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-00C853?style=for-the-badge&logo=shield&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Ciberseguridad-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=CC0000)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=CC0000)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=CC0000)
 
 </div>
 
@@ -62,16 +81,16 @@ class JorgeHernandez:
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tockdoog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Estadísticas%20de%20Jorge" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tockdoog&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=es" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tockdoog&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Estadísticas%20de%20Jorge&title_color=CC0000&icon_color=CC0000&bg_color=0d0d0d&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tockdoog&layout=compact&hide_border=true&langs_count=6&locale=es&bg_color=0d0d0d&text_color=ffffff&title_color=CC0000" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tockdoog&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=tockdoog&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&background=0d0d0d&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="55%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tockdoog&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tockdoog&bg_color=0d0d0d&color=ffffff&line=CC0000&point=CC0000&area=true&hide_border=true" width="98%"/>
 </div>
 
 ---
@@ -79,7 +98,7 @@ class JorgeHernandez:
 ## 🏆 Trofeos de GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tockdoog&theme=tokyonight&no-frame=true&row=1&column=6" width="98%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tockdoog&theme=onestar&no-frame=true&row=1&column=6&no-bg=true" width="98%"/>
 </div>
 
 ---
@@ -98,10 +117,10 @@ class JorgeHernandez:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreihernández-27592a257/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DoogTock)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tockdoog/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=CC0000)](https://www.linkedin.com/in/andreihernández-27592a257/)
+[![Twitter](https://img.shields.io/badge/Twitter-1a1a1a?style=for-the-badge&logo=twitter&logoColor=CC0000)](https://x.com/DoogTock)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=CC0000)](https://www.instagram.com/tockdoog/)
+[![Discord](https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=CC0000)](https://discord.com/channels/@me)
 
 </div>
 
@@ -112,6 +131,6 @@ class JorgeHernandez:
 ### 👥 Visitas al perfil
 ![Visitor Count](https://profile-counter.glitch.me/tockdoog/count.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,1a1a1a,B22222&height=120&section=footer" width="100%"/>
 
 </div>
